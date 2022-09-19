@@ -1,4 +1,4 @@
-FROM alpine:3.8
+OM alpine:3.8
 
 RUN mkdir /var/flaskapp
 
